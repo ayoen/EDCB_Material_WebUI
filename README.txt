@@ -1,0 +1,4 @@
+﻿動くようになったので公開
+EpgDataCap_Bon.exeでは選局できない(わからない)のでRecTask.exeを使用
+api/TvCastを自分の環境に合わせてRecTaskと凡ドラを指定
+細かいところはまだまだ
